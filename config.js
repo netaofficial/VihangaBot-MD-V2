@@ -17,15 +17,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['27634090203','']
-global.premium = ['27634090203','918188019676']
-global.botname = 'VIHANGA BOT INC'
-global.ownername = 'Vihanga MD'
-global.group1 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
-global.group2 = 'https://chat.whatsapp.com/K98pHm46F1M7ZROsJUrBGF'
-global.packname = 'VIHANGA BOT INC'
-global.cap = '*By Vihanga MD*'
-global.ytchannel = 'https://youtu.be/Z9rIR0Vopb8'
+global.owner = ['94712800305','94712800305']
+global.premium = ['94712800305','94712800305']
+global.botname = 'NETA BOT INC'
+global.ownername = 'NETA MD'
+global.group1 = 'https://chat.whatsapp.com/EE'
+global.group2 = 'https://chat.whatsapp.com/BB'
+global.packname = 'NETA BOT INC'
+global.cap = '*By NETA MD*'
+global.ytchannel = 'https://youtu.be'
 global.monayawal = '100000'
 global.darahawal = '100'
 global.besiAwal = '15'
@@ -40,13 +40,13 @@ global.dripsrecord = false
 global.available = false
 global.unavailable = true
 global.limittot = 100,
-global.f1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
-global.f2 = 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'
-global.f3 = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
-global.f4 = 'application/zip'
-global.f5 = 'application/pdf'
-global.f6 = 'application/vnd.android.package-archive'
-global.author = 'VIHANGA BOT INC'
+global.f1 = ''
+global.f2 = ''
+global.f3 = ''
+global.f4 = ''
+global.f5 = ''
+global.f6 = ''
+global.author = 'NETA BOT INC'
 global.flaming = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=amped-logo&doScale=true&scaleWidth=800&scaleHeight=500&text='
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
@@ -78,8 +78,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/20220602_094206.png')  
 global.bc = fs.readFileSync('./lib/20220602_094206.png')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/Fq11ltB.gif' }
+global.vid = { url: 'https://i.imgur.com/Fq11ltB.gif' }
 
 //—————「 Set Random Image Menu 」—————//
 
